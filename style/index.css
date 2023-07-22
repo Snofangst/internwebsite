@@ -480,7 +480,7 @@ html,body{
         font-size: 15px;
     }
     .button {
-        width: 85%;
+        width: 100%;
         margin: 20px;
     }
 }
