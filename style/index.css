@@ -481,7 +481,7 @@ html,body{
     }
     .button {
         width: 90%;
-        margin: auto;
+        margin: 5%;
     }
 }
 @media (max-width: 420px) {
@@ -491,7 +491,7 @@ html,body{
     }
 	.button {
         width: 90%;
-        margin: auto;
+        margin: 5%;
     }
 }
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
